@@ -1,0 +1,17 @@
+{
+    "name": "farukh/design-patterns-seminar",
+    "authors": [
+        {
+            "name": "Farukh Narzullaev",
+            "email": "faruh.narzullaev@bk.ru"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"App\\": "src/"
+    	}
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    }
+}
