@@ -4,7 +4,7 @@ By Farukh Narzullaev
 
 [![GitHub license](https://img.shields.io/github/license/farukh-narzullaev/design-patterns-seminar?style=flat-square)](https://github.com/farukh-narzullaev/design-patterns-seminar)
 [![GitHub issues](https://img.shields.io/github/issues/farukh-narzullaev/design-patterns-seminar?style=flat-square)](https://github.com/farukh-narzullaev/design-patterns-seminar/issues)
-[![Build Status](https://www.travis-ci.com/farukh-narzullaev/design-patterns-seminar.svg?branch=master)](https://www.travis-ci.com/farukh-narzullaev/design-patterns-seminar)
+![Build Status](https://img.shields.io/travis/farukh-narzullaev/design-patterns-seminar/master?style=flat-square)
 ![DP](images/logo.png)
 
 ---
